@@ -22,7 +22,7 @@ while True:
         if computer == "scissor":
             print("computer picks ---> " + computer )
             print("player picks ---> " + player)
-            print("You loose!")
+            print("You Win!")
     elif player == "paper":
         if computer == "rock":
             print("computer picks ---> " + computer )
